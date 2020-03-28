@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/covidnyc/static/css/main.8188d4da.chunk.css",
-    "main.js": "/covidnyc/static/js/main.a0884027.chunk.js",
-    "main.js.map": "/covidnyc/static/js/main.a0884027.chunk.js.map",
+    "main.css": "/covidnyc/static/css/main.7abbeeff.chunk.css",
+    "main.js": "/covidnyc/static/js/main.99ef93d0.chunk.js",
+    "main.js.map": "/covidnyc/static/js/main.99ef93d0.chunk.js.map",
     "runtime-main.js": "/covidnyc/static/js/runtime-main.f99af8b6.js",
     "runtime-main.js.map": "/covidnyc/static/js/runtime-main.f99af8b6.js.map",
-    "static/js/2.1058f48c.chunk.js": "/covidnyc/static/js/2.1058f48c.chunk.js",
-    "static/js/2.1058f48c.chunk.js.map": "/covidnyc/static/js/2.1058f48c.chunk.js.map",
+    "static/js/2.7bb00235.chunk.js": "/covidnyc/static/js/2.7bb00235.chunk.js",
+    "static/js/2.7bb00235.chunk.js.map": "/covidnyc/static/js/2.7bb00235.chunk.js.map",
     "index.html": "/covidnyc/index.html",
-    "precache-manifest.253e5152b15da87f9f4d7d0feec3b3f7.js": "/covidnyc/precache-manifest.253e5152b15da87f9f4d7d0feec3b3f7.js",
+    "precache-manifest.0809c20274eeb6e2dcf6abf5e0cf577d.js": "/covidnyc/precache-manifest.0809c20274eeb6e2dcf6abf5e0cf577d.js",
     "service-worker.js": "/covidnyc/service-worker.js",
-    "static/css/main.8188d4da.chunk.css.map": "/covidnyc/static/css/main.8188d4da.chunk.css.map",
-    "static/js/2.1058f48c.chunk.js.LICENSE.txt": "/covidnyc/static/js/2.1058f48c.chunk.js.LICENSE.txt"
+    "static/css/main.7abbeeff.chunk.css.map": "/covidnyc/static/css/main.7abbeeff.chunk.css.map",
+    "static/js/2.7bb00235.chunk.js.LICENSE.txt": "/covidnyc/static/js/2.7bb00235.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f99af8b6.js",
-    "static/js/2.1058f48c.chunk.js",
-    "static/css/main.8188d4da.chunk.css",
-    "static/js/main.a0884027.chunk.js"
+    "static/js/2.7bb00235.chunk.js",
+    "static/css/main.7abbeeff.chunk.css",
+    "static/js/main.99ef93d0.chunk.js"
   ]
 }
