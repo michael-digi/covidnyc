@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/covidnyc/static/css/main.68e8c8cb.chunk.css",
-    "main.js": "/covidnyc/static/js/main.75132c77.chunk.js",
-    "main.js.map": "/covidnyc/static/js/main.75132c77.chunk.js.map",
+    "main.js": "/covidnyc/static/js/main.575cd6a9.chunk.js",
+    "main.js.map": "/covidnyc/static/js/main.575cd6a9.chunk.js.map",
     "runtime-main.js": "/covidnyc/static/js/runtime-main.f99af8b6.js",
     "runtime-main.js.map": "/covidnyc/static/js/runtime-main.f99af8b6.js.map",
     "static/js/2.7bb00235.chunk.js": "/covidnyc/static/js/2.7bb00235.chunk.js",
     "static/js/2.7bb00235.chunk.js.map": "/covidnyc/static/js/2.7bb00235.chunk.js.map",
     "index.html": "/covidnyc/index.html",
-    "precache-manifest.e2334d622da696e81bf4e222e33467d4.js": "/covidnyc/precache-manifest.e2334d622da696e81bf4e222e33467d4.js",
+    "precache-manifest.cd683fbe786a1f9edc4b6f67b5dac125.js": "/covidnyc/precache-manifest.cd683fbe786a1f9edc4b6f67b5dac125.js",
     "service-worker.js": "/covidnyc/service-worker.js",
     "static/css/main.68e8c8cb.chunk.css.map": "/covidnyc/static/css/main.68e8c8cb.chunk.css.map",
     "static/js/2.7bb00235.chunk.js.LICENSE.txt": "/covidnyc/static/js/2.7bb00235.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f99af8b6.js",
     "static/js/2.7bb00235.chunk.js",
     "static/css/main.68e8c8cb.chunk.css",
-    "static/js/main.75132c77.chunk.js"
+    "static/js/main.575cd6a9.chunk.js"
   ]
 }
